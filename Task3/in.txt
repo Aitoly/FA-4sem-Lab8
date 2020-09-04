@@ -1,0 +1,27 @@
+{
+	ShowVar;
+	var1=new(70);
+	{
+		var2=new(37);
+		ShowVar;
+		{
+			{
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+				var3=new(100);
+			}
+			var5=new(250);
+			ShowVar;
+			var21=new(78);
+		}
+		var22=new(134);
+	}
+	var2=new(90);
+	ShowVar;
+}

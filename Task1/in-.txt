@@ -1,0 +1,6 @@
+var1 = alloc(0);
+var2 = alloc(25);
+var3 = alloc(20);
+dealloc(var1);
+dealloc(var2);
+dealloc(var3);

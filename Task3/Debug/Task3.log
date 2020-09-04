@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task3\main.cpp(63,7): warning C4101: 'buff': unreferenced local variable
+  System2Storage.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task3\System2Storage.cpp(102,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating Code...
+  Task3.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab8\Debug\Task3.exe

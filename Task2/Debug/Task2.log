@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\main.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\main.cpp(36,78): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\main.cpp(50,20): warning C4552: '-': result of expression not used
+  MemoryStorage.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(208,53): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(208,53): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(223,53): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(223,53): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(240,53): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(240,53): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab8\Task2\MemoryStorage.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Task2.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab8\Debug\Task2.exe
